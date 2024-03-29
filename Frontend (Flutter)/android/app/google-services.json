@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803430003489",
+    "project_id": "drug-application-390fe",
+    "storage_bucket": "drug-application-390fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803430003489:android:1a4882561c1972576b8460",
+        "android_client_info": {
+          "package_name": "com.example.drug_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RTvowv8F01owM8wVUwttzhgHhEg4B8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803430003489:android:fcd951d2ced254316b8460",
+        "android_client_info": {
+          "package_name": "com.example.term_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RTvowv8F01owM8wVUwttzhgHhEg4B8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
